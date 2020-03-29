@@ -8,6 +8,8 @@ public class TeaCoffeeVendingMachineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TeaCoffeeVendingMachineApplication.class, args);
+		
+		//testing
 	}
 
 }
